@@ -20,7 +20,7 @@
 //		"fmt"
 //		"log"
 //		"net/http"
-//		"rsc.io/letsencrypt"
+//		"github.com/dmcgowan/letsencrypt"
 //	)
 //
 //	func main() {
